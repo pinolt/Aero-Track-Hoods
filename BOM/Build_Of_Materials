@@ -1,0 +1,30 @@
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th align="center">Component</th>
+            <th align="center">Quantity</th>
+            <th align="center">Worldwide</th>
+            <th align="center">Australia</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Hardware</td>
+            <td align="center"><a href="https://youtu.be/pQPhEykthEg" rel="nofollow">
+            <th align="center">Shimano Ultegra ST-R8050 Clamp Band Unit - 23.8mm to 24.2mm, (Y00E98050)</th>
+            <th align="center">2</th>
+            <img src="https://img.youtube.com/vi/pQPhEykthEg/0.jpg" alt="Bed coupling"/></a></td>
+            <td align="center"><a href="https://youtu.be/tPoP6zmxsCY" rel="nofollow">
+            <img src="https://img.youtube.com/vi/tPoP6zmxsCY/0.jpg" alt="Speed benchy"/></a></td>
+            <td align="center"><a href="https://youtu.be/kLawpgAUUPE" rel="nofollow">
+            <img src="https://img.youtube.com/vi/kLawpgAUUPE/0.jpg" alt="Speed benchy"/></a></td>
+        </tr>
+        <tr>
+            <td>Printed Parts</td>
+            <td align="center">beta1</td>
+            <td align="center">beta2</td>
+            <td align="center">beta2</td>
+        </tr>
+    </tbody>
+</table>
