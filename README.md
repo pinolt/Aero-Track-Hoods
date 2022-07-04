@@ -7,8 +7,8 @@ Aero Track Hoods offer an ergonomic solution to riding track, fixie/fixed gear a
 Components:
 - Shimano Ultegra ST-R8050 Clamp Band Unit - 23.8mm to 24.2mm, (Y00E98050)
 
-[Worldwide](https://www.aliexpress.com/item/1005003148055062.html?spm=a2g0o.seodetail.topbuy.1.643721bfPm7gVd)
-[Australia](https://www.bikebug.com/shimano-ultegra-di2-st-r8050-clamp-band-unit---23.8mm-to-24.2mm.html)
+- [Worldwide](https://www.aliexpress.com/item/1005003148055062.html?spm=a2g0o.seodetail.topbuy.1.643721bfPm7gVd)
+- [Australia](https://www.bikebug.com/shimano-ultegra-di2-st-r8050-clamp-band-unit---23.8mm-to-24.2mm.html)
 
 
 
