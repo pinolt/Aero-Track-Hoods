@@ -1,3 +1,32 @@
 ,Component,Quanitity,Worldwide,Australia
-Hardware,"Shimano Ultegra ST-R8050 Clamp Band Unit - 23.8mm to 24.2mm, (Y00E98050)",2,[AliExpress]<a href="https://www.aliexpress.com/item/1005003148055062.html?spm=a2g0o.seodetail.topbuy.1.643721bfPm7gVd" rel="nofollow">,bikebug
+Hardware,"Shimano Ultegra ST-R8050 Clamp Band Unit - 23.8mm to 24.2mm, (Y00E98050)",2,AliExpress,bikebug
 Printed Parts,"Aero Track Hoods (Left & Right): PETG, ABS, PA, CF",1,,
+
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th align="center">Bed coupling</th>
+            <th align="center">SpeedBoatRace</th>
+            <th align="center">Slow benchy</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Video</td>
+            <td align="center"><a href="https://youtu.be/pQPhEykthEg" rel="nofollow">
+            <img src="https://img.youtube.com/vi/pQPhEykthEg/0.jpg" alt="Bed coupling"/></a></td>
+            <td align="center"><a href="https://youtu.be/tPoP6zmxsCY" rel="nofollow">
+            <img src="https://img.youtube.com/vi/tPoP6zmxsCY/0.jpg" alt="Speed benchy"/></a></td>
+            <td align="center"><a href="https://youtu.be/kLawpgAUUPE" rel="nofollow">
+            <img src="https://img.youtube.com/vi/kLawpgAUUPE/0.jpg" alt="Speed benchy"/></a></td>
+        </tr>
+        <tr>
+            <td>Hardware version</td>
+            <td align="center">beta1</td>
+            <td align="center">beta2</td>
+            <td align="center">beta2</td>
+        </tr>
+    </tbody>
+</table>
