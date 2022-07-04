@@ -2,32 +2,6 @@
 Aero Track Hoods offer an ergonomic solution to riding track, fixie/fixed gear and tracklocross bikes.
 ![Isometric_View_2](https://user-images.githubusercontent.com/85740352/177072448-15275164-285c-4716-9140-8ff4391ba852.png)
 
-# Printing Guidelines
-3D Printing Process
-- Fused Deposition Modeling (FDM)
-
-Material
-- Designed and tested with PETG.
-
-Layer Height
-- Recomended: 0.2mm
-
-Extrusion Width
-- Recomended: 0.4mm
-
-Infill Type
-- Gyroid
-
-Infill Percentage
-- Recomended: 20%
-
-Wall Count
-- Recomended: 8
-
-Solid Top/Bottom Layers
-- Recomended: 5
-
-
 
 # BOM
 
